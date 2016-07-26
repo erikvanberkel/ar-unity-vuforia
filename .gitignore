@@ -243,6 +243,7 @@ _Pvt_Extensions
 **/Logs/*.csv
 /Wur.OnlineCourses.PhoneGap/www/js/app.js
 
-/[Ll]ibrary/
+/[Ll]ibrary/**
+!/Library/UnityAssemblies/**
 /[Tt]emp/
 /[Bb]uilds/
